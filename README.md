@@ -1,13 +1,13 @@
 ## 👋 Привет, я Николай
 
-**Middle .NET Developer** с опытом 3 года в финтехе и логистике.  
+**Middle .NET Developer** с опытом 3 года в финтехе и логистике.
 Специализация: микросервисы, банковские API, ЭДО, высоконагруженные системы.
 
 ### 🛠 Технологии
-`C#` `.NET Core` `ASP.NET Core` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `gRPC` `xUnit` `Polly` `GitHub Actions` `CI/CD`
+`C#` `.NET` `ASP.NET Core` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `gRPC` `xUnit` `Polly` `CI/CD`
 
-### 📌 Мои проекты
-- **[IdempotencyToolkit](https://github.com/NickDev1781/IdempotencyToolkit)** — библиотека идемпотентности для ASP.NET Core (контроллеры + Minimal API) с интеграционными тестами на Testcontainers.
+### 📦 Open Source
+- **[IdempotencyToolkit](https://github.com/NickDev1781/IdempotencyToolkit)** — библиотека идемпотентности для ASP.NET Core с распределёнными блокировками (Redis, PostgreSQL) и In‑Memory провайдером для тестов. Опубликована как NuGet‑пакет, покрыта интеграционными тестами на Testcontainers.
 
 ### 📫 Контакты
 - Telegram: @nlck8711
